@@ -1,6 +1,6 @@
 Got it! Let's refine that to ensure it's a proper `README.md` file. Here's a more structured version:
 
-```markdown
+
 # Mad Libs Game 🎭
 
 ## Overview
@@ -18,6 +18,7 @@ The **Mad Libs Game** is a fun and interactive Python project where users provid
 ## How to Run the Project ▶️
 1. **Download the `.ipynb` file** or clone the repository.
 2. Ensure **Python** and **Jupyter Notebook** are installed on your system:
+
    ```sh
    python --version
    pip install notebook
