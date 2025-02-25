@@ -38,7 +38,7 @@ A simple BMI (Body Mass Index) calculator built using Streamlit that calculates 
 
 ### 9. Build a Python Website in 15 Minutes With Streamlit
 A basic web application built using Streamlit to demonstrate how quickly web apps can be created in Python.
-[Open in Google Colab](<YOUR_PROJECT_9_LINK_HERE>)
+[View App](<[YOUR_PROJECT_9_LINK_HERE](https://python-projec-fppizbzpxnstwvanur499u.streamlit.app/)>)
 
 ## How to Use
 1. Click on the respective Google Colab link for the project you want to explore.
